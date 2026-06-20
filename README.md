@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Shubh Varshney
 
-<!--
-**Shubh05564/Shubh05564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at GLA University
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Java Developer
+
+🚀 Passionate about Full Stack Development
+
+## Skills
+
+- Java
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- SQL
+- Git & GitHub
+
+## Projects
+
+### RTPM Dashboard
+Real-Time Project Management Dashboard using MERN Stack.
+
+### Blog Application
+Full Stack Blog Application with JWT Authentication and Cloudinary.
+
+## Achievements
+
+- Solved 150+ DSA Problems on LeetCode
+
+## Connect With Me
+
+📧 shubh.varshney_cs23@gla.ac.in
