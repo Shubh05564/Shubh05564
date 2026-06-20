@@ -1,87 +1,57 @@
-<h1 align="center">Hi 👋, I'm Shubh Varshney</h1>
+# Hi 👋, I'm Shubh Varshney
 
-<h3 align="center">
-Full Stack MERN Developer | Java Programmer | B.Tech CSE @ GLA University
-</h3>
+### Full Stack MERN Developer | Java Programmer | B.Tech CSE Student
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student at GLA University
-
-💻 Full Stack MERN Developer
-
-☕ Java Developer
-
-🚀 Passionate about Software Development
-
-📚 Solved 150+ DSA Problems on LeetCode
-
-🌱 Currently Learning Advanced React & Backend Development
+* 🎓 B.Tech Computer Science Student at GLA University
+* 💻 Full Stack MERN Developer
+* ☕ Java Programmer
+* 🚀 Passionate about Web Development and Software Engineering
+* 📚 Solved 150+ DSA Problems on LeetCode
+* 🌱 Currently learning Advanced React and Backend Development
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+Java • JavaScript • React.js • Node.js • Express.js • MongoDB • SQL • Git • GitHub • VS Code
 
 ---
 
 ## 🏆 Featured Projects
 
-### 📌 RTPM Dashboard
+### RTPM Dashboard
 
-Real-Time Project Management Dashboard built using React.js, Node.js, Express.js and MongoDB.
+Real-Time Project Management Dashboard built using React.js, Node.js, Express.js, and MongoDB.
 
-**Features:**
-- User Authentication
-- Task Management
-- Team Collaboration
-- Project Tracking
-- Real-Time Updates
+**Key Features**
 
----
-
-### 📌 Blog Application
-
-Full Stack Blog Application built using MERN Stack.
-
-**Features:**
-- JWT Authentication
-- Cloudinary Image Upload
-- Like & Comment System
-- Redux State Management
-- REST API Integration
+* User Authentication
+* Project Creation & Management
+* Task Assignment & Tracking
+* Team Collaboration
+* Real-Time Updates
 
 ---
 
-### 📌 Smart Dustbin
+### Blog Application
+
+Full Stack Blog Application built using the MERN Stack.
+
+**Key Features**
+
+* JWT Authentication
+* Cloudinary Image Upload
+* Blog Creation & Management
+* Like and Comment System
+* REST API Integration
+
+---
+
+### Smart Dustbin
 
 IoT-based automation project demonstrating practical implementation of sensors and automation concepts.
 
@@ -89,35 +59,33 @@ IoT-based automation project demonstrating practical implementation of sensors a
 
 ## 📈 Coding Profile
 
-- 🔥 150+ DSA Problems Solved
-- ☕ Java Enthusiast
-- 💡 Problem Solver
-- 🚀 MERN Stack Developer
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubh05564&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh05564&layout=compact&theme=tokyonight)
+* Solved 150+ DSA Problems
+* Strong Foundation in Java
+* Problem Solving Enthusiast
+* Active GitHub Learner
 
 ---
 
 ## 🎯 Current Focus
 
-- Data Structures & Algorithms
-- Full Stack Development
-- Backend Engineering
-- System Design Basics
+* Data Structures & Algorithms
+* Full Stack Development
+* Backend Engineering
+* System Design Fundamentals
+
+---
+
+## 📊 GitHub Statistics
+
+Check out my repositories to explore my projects and coding journey.
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: shubh.varshney_cs23@gla.ac.in
+📧 Email: [shubh.varshney_cs23@gla.ac.in](mailto:shubh.varshney_cs23@gla.ac.in)
 
-💼 LinkedIn: Add Your LinkedIn Link Here
+💼 LinkedIn: Add Your LinkedIn Profile Link Here
 
 🐙 GitHub: https://github.com/Shubh05564
 
