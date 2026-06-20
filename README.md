@@ -85,8 +85,7 @@ Check out my repositories to explore my projects and coding journey.
 
 📧 Email: [shubh.varshney_cs23@gla.ac.in](mailto:shubh.varshney_cs23@gla.ac.in)
 
-💼 LinkedIn: Add Your LinkedIn Profile Link Here
-
+💼 LinkedIn: https://www.linkedin.com/in/shubh-varshney-006105308/
 🐙 GitHub: https://github.com/Shubh05564
 
 ---
