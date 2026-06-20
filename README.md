@@ -17,7 +17,7 @@
 
 ## 🚀 Tech Stack
 
-Java • JavaScript • React.js • Node.js • Express.js • MongoDB • SQL • Git • GitHub • VS Code
+Java • JavaScript • React.js • Node.js • Express.js • MongoDB • SQL • Git • GitHub • VS Code * html * css * c * python 
 
 ---
 
